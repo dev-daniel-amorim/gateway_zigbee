@@ -1,5 +1,5 @@
 # Comunicação Zigbee (Esp32 + Xbee modules)
-Desenvolvi diversas aulas sobre protocolo Zigbee, aqui você encontrará conteúdos sobre configurações de módulos Xbee usando Xctu, interpretação de pacotes AT, API, leitura de dados analógicos e digitais de diversos sensores em uma rede mesh, e por fim, desenvolvi um projeto de um Gateway concentrador Zigbee com módulo Eso32 reunindo todo o conhecimento passado nestes conteúdos. 
+Desenvolvi diversas aulas sobre protocolo Zigbee, aqui você encontrará conteúdos sobre configurações de módulos Xbee usando Xctu, interpretação de pacotes AT, API, leitura de dados analógicos e digitais de diversos sensores em uma rede mesh, e por fim, desenvolvi um projeto de um Gateway concentrador Zigbee (projeto final deste conteúdo). 
 
 | Tutoriais/Títulos  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | :---: | :---: |
@@ -11,7 +11,7 @@ Desenvolvi diversas aulas sobre protocolo Zigbee, aqui você encontrará conteú
 | Xbee/Esp32 - Enviando comandos AT em pacotes API (Aula 6) | [Vídeo aula](https://youtu.be/49fqidD_KXY) | --- |
 
 # Gateway concentrador zigbee
-Unindo todo conteúdo acima criei um Gateway concentrador zigbee, que consiste em um Xbee coordenador comandando uma rede mesh com vários módulos routers e end devices enviando e recebendo pacotes de dados analógicos e digitais. Um ESP32 faz a concentração dos dados da rede zigbee e envia em uma rede Ethernet/Wifi para um broquer MQTT que faz a leitura/envio dos dados coletados na rede. Confira abaixo o vídeo do funcionamento deste projeto.
+Unindo todo conteúdo acima criei um Gateway concentrador zigbee, que consiste em um Xbee coordenador comandando uma rede mesh com vários módulos routers e end devices enviando e recebendo pacotes de dados analógicos e digitais. Um ESP32 faz a concentração dos dados da rede zigbee e envia em uma rede Ethernet/Wifi para um broker MQTT que faz a leitura/envio dos dados coletados na rede. Confira abaixo o vídeo do funcionamento deste projeto.
 
 | Tutoriais/Títulos  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | :---: | :---: |
