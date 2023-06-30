@@ -15,7 +15,7 @@ Unindo todo conteúdo acima criei um Gateway concentrador zigbee, que consiste e
 
 | Tutoriais/Títulos  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | :---: | :---: |
-| Xbee/Esp32 - Gateway concentrador Zigbee (Projeto Final) | [Vídeo aula](https://youtu.be/Ki-BkXGZ5OA) | --- |
+| Xbee/Esp32 - Gateway concentrador Zigbee (Projeto Final) | [Vídeo aula](https://youtu.be/Ki-BkXGZ5OA) | [Código Fonte](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/Gateway_ZB_final/src/main.cpp) |
 
 
 <hr>
